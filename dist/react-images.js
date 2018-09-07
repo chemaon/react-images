@@ -1455,6 +1455,7 @@ var defaultStyles = {
 		height: 'auto',
 		margin: '0 auto', // maintain center on very short screens OR very narrow image
 		maxWidth: '100%',
+		alignSelf: 'center',
 
 		// disable user select
 		WebkitTouchCallout: 'none',
